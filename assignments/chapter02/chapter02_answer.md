@@ -663,7 +663,7 @@ PostgreSQL은 데이터를 저장하고 SQL을 실행하는 서버이다. DBeave
 - [x] 개인 서비스 테이블 후보를 3개 이상 적었다.
 - [x] 개인 서비스 FK 후보랑 미확정 정책을 적었다.
 - [x] 비밀번호나 접속 정보가 안 들어갔는지 확인했다.
-- [ ] 이미지 링크가 GitHub에서 잘 보이는지 확인했다.
+- [x] 이미지 링크가 GitHub에서 잘 보이는지 확인했다.
 
 ---
 
@@ -689,7 +689,7 @@ https://github.com/lentok-viva/database-course-2026-2/blob/main/assignments/chap
 
 ## 최종 확인
 
-- [ ] 이 URL을 다른 브라우저에서 열어도 보인다.
-- [ ] Markdown이 잘 보인다.
-- [ ] 이미지가 안 깨진다.
+- [x] 이 URL을 다른 브라우저에서 열어도 보인다.
+- [x] Markdown이 잘 보인다.
+- [x] 이미지가 안 깨진다.
 - [ ] LMS에 교수 템플릿 URL 말고 내 답안 파일 URL을 제출했다.
